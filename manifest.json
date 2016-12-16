@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "wow-dpi",
+    "version": "1.0",
+    
+    "description": "Wow such DPI much blacklist very 1984",
+    
+    "permissions": ["webRequest", "webRequestBlocking"],
+
+    "background": {
+        "scripts": ["wowdpi.js"]
+    }
+}

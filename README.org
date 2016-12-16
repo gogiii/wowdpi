@@ -1,0 +1,12 @@
+#+TITLE: Wow such DPI, much blacklist, we're trapped, very 1984
+
+Extremely simple "workaround" bypassing russian site blacklist without usage of proxies, TOR, etc. 
+
+*Note:* It works *only* for some ISPs which use DPI and packet mangling, for example ros****com.
+
+Limitations:
+
+ - Works only with some ISPs
+ - Doesn't work with SSL
+ - HTTP proxies destroy the magic
+ - The loophole may be closed in the future
