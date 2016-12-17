@@ -1,6 +1,6 @@
 #+TITLE: Wow such DPI, much blacklist, we're trapped, very 1984
 
-Sourse code for a Firefox addon: https://addons.mozilla.org/addon/wow-dpi/
+Source code for a Firefox addon: https://addons.mozilla.org/addon/wow-dpi/
 
 Extremely simple "workaround" bypassing russian site blacklist without usage of proxies, TOR, etc. 
 
