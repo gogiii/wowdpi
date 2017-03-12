@@ -1,8 +1,8 @@
 function mangleHost(e) {
     for (var header of e.requestHeaders) {
-        if (header.name == "Host") {
+        if (header.name.toLowerCase() == "host") {
             header.value = ' ' + header.value;
-            // header.name = "HoSt"; 
+            // header.name = "HoSt";
         }
     }
     return {requestHeaders: e.requestHeaders};
